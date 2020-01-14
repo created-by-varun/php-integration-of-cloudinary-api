@@ -1,0 +1,15 @@
+body{
+    background: rgb(146,153,148);
+    background: radial-gradient(circle, rgba(146,153,148,1) 0%, rgba(63,98,87,1) 100%); 
+}
+
+input {
+    border: none;
+    outline: none;
+    background-color: rgba(255, 255, 255, 0.726);
+}
+
+form {
+    margin: 20px;
+    padding: 5px;
+}
